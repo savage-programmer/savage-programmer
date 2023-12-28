@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Akram</h1>
 <h3 align="center">A seasoned Unity Game Developer with over 3+ years of experience. Worked on a wide variety of projects related to AR, VR, Metaverse, Web 3.0, Blockchain, and Massive Multiplayer. Expertise in both 2d and 3d genres including Simulation, Arcade, Action, Turn base, and Top Down Isometric..</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-/*<p align="left"> <img src="https://i.pinimg.com/564x/55/39/8b/55398b80d2b3d3e43327a1626013d14e.jpg?username=savage-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="savage-programmer" /> </p>*/
 
 - 🌱 I’m currently learning **Unreal Engine 5.**
 
